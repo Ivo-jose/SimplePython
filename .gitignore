@@ -1,0 +1,60 @@
+# Arquivos compilados Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambientes virtuais
+venv/
+.env/
+*.venv/
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Configurações do editor e IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ferramentas de build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs e dumps
+*.log
+logs/
+debug.log
+*.sqlite3
+
+# Arquivos temporários e caches
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+
+# Configurações do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de testes
+.tox/
+.nox/
+.coverage
+htmlcov/
+
+# Docker e ambientes de contêiner
+docker-compose.override.yml
+.envrc
+.mypy_cache/
+
+# PyInstaller
+*.spec
+
+# Dependências geradas pelo Poetry
+.pyre/
+
+# Others
+*.sh
