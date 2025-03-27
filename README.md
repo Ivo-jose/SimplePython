@@ -1,51 +1,51 @@
-# Meu Projeto Python
+# My Python Project
 
-Este projeto contém dois arquivos de exemplo escritos em Python: um script tradicional (`exemple-1.py`) e um notebook Jupyter (`exemple-2.ipynb`).
+This project contains two example files written in Python: a traditional script (`exemple-1.py`) and a Jupyter notebook (`exemple-2.ipynb`).
 
-## Estrutura do Projeto
+## Project Structure
 
-- **`exemple-1.py`**: Um script simples que imprime mensagens no console e exibe algumas variáveis.
-- **`exemple-2.ipynb`**: Um notebook Jupyter contendo células de código e markdown para aprendizado de Python.
+- **`exemple-1.py`**: A simple script that prints messages to the console and displays some variables.
+- **`exemple-2.ipynb`**: A Jupyter notebook containing code and markdown cells for learning Python.
 
-## Conteúdo dos Arquivos
+## File Contents
 
 ### `exemple-1.py`
-Este arquivo executa as seguintes ações:
-- Exibe "Hello World!"
-- Define e imprime uma variável de idade
-- Exibe uma mensagem de teste do Python
-- Define e imprime o nome de um curso
+This file performs the following actions:
+- Displays "Hello World!"
+- Defines and prints an age variable
+- Displays a Python test message
+- Defines and prints the name of a course
 
 ### `exemple-2.ipynb`
-O notebook contém:
-- Uma célula Markdown com a frase "Learning Python"
-- Uma célula de código que imprime "Hello World!"
-- Uma célula de código que realiza uma operação matemática (`5 + 4`)
+The notebook contains:
+- A Markdown cell with the phrase "Learning Python"
+- A code cell that prints "Hello World!"
+- A code cell that performs a mathematical operation (`5 + 4`)
 
-## Como Executar
+## How to Run
 
-### Rodando o Script Python
-Para executar o arquivo `exemple-1.py`, use o seguinte comando no terminal:
+### Running the Python Script
+To execute the `exemple-1.py` file, use the following command in the terminal:
 ```sh
 python exemple-1.py
 ```
 
-### Executando o Notebook Jupyter
-Para abrir e rodar o notebook, siga os passos:
-1. Instale o Jupyter Notebook, se ainda não tiver:
+### Running the Jupyter Notebook
+To open and run the notebook, follow these steps:
+1. Install Jupyter Notebook if you don't have it:
    ```sh
    pip install notebook
    ```
-2. Inicie o Jupyter Notebook:
+2. Start Jupyter Notebook:
    ```sh
    jupyter notebook
    ```
-3. No navegador, abra `exemple-2.ipynb` e execute as células.
+3. In the browser, open `exemple-2.ipynb` and run the cells.
 
-## Requisitos
-- Python 3 instalado
-- (Opcional) Jupyter Notebook para executar o arquivo `.ipynb`
+## Requirements
+- Python 3 installed
+- (Optional) Jupyter Notebook to run the `.ipynb` file
 
-## Licença
-Este projeto é apenas um exemplo e não possui uma licença específica.
+## License
+This project is just an example and does not have a specific license.
 
